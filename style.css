@@ -1,0 +1,29 @@
+/* ul{
+    display: flex;
+    list-style-type:none;
+    padding: 20px;
+    } */
+    
+    button{
+    padding: 20px 40px;
+    background-color: skyblue;
+    margin: 30px 2px;
+    border: 2px solid gray;
+    }
+    
+    td,tr{
+        padding: 20px;
+        background-color:palegoldenrod;
+        border: 4px;
+    }
+
+    .empty{
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .header{
+        color:palevioletred;
+        font-weight: bold;
+        font-size: 25px;
+    }
